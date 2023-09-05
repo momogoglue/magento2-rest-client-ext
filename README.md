@@ -1,4 +1,4 @@
-# Magento2 REST client
+# Magento2 REST client-ext
 
 
 ### Stay connected
